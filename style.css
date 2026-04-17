@@ -362,7 +362,7 @@ header h1 {
         margin-left: -60px; /* 🔥 mete la tarjeta detrás del círculo */
         padding: 6px 10px 6px 55px; /* 🔥 controla ancho real */
 
-        max-width: 220px; /* 🔥 evita que se haga larga */
+        
         border-radius: 10px;
 
         font-size: 0.8rem;
