@@ -111,7 +111,7 @@ header h1 {
 .presenter-info strong {
     display: block;
     font-family: 'Montserrat', sans-serif;
-    font-size: clamp(0.6rem, 2vw, 0.85rem);
+    font-size: clamp(0.5rem, 2vw, 0.85rem);
     
 }
 
@@ -438,7 +438,7 @@ header h1 {
     }
 
     .presenter-info {
-        padding: 4px 6px 2px 25px;
+        padding: 4px 8px 2px 25px;
     }
 }
 
