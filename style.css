@@ -101,7 +101,7 @@ header h1 {
     padding: 10px;
     border-radius: 10px;
 
-    font-size: clamp(0.5rem, 2vw, 0.75rem);
+    font-size: clamp(0.55rem, 2vw, 0.75rem);
     line-height: 1.4;
     text-align: left;
 
@@ -111,8 +111,8 @@ header h1 {
 .presenter-info strong {
     display: block;
     font-family: 'Montserrat', sans-serif;
-    font-size: clamp(0.55rem, 2vw, 0.85rem);
-    margin-bottom: 4px;
+    font-size: clamp(0.6rem, 2vw, 0.85rem);
+    
 }
 
 /* CERTIFICADO */
@@ -216,8 +216,8 @@ header h1 {
 
 .bottom-section {
     background: rgba(0, 18, 12, 0.55);
-    margin: 0 -15px;
-    padding: 0 5px;
+    margin: 0 -20px;
+    padding: 0 15px;
 }
 
 /* ========================= */
@@ -438,7 +438,7 @@ header h1 {
     }
 
     .presenter-info {
-        padding: 2px 4px 2px 35px;
+        padding: 4px 6px 2px 25px;
     }
 }
 
